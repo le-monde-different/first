@@ -1,0 +1,12 @@
+*{
+  text-align: center;
+  padding-top: 8px;
+  background-color: rgba(237, 241, 244, 0.589);
+}
+body{
+  padding-top: 16px;
+}
+h1{
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(12, 12, 12);
+}
